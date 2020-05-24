@@ -23,6 +23,6 @@ script:
 deploy:
   provider: heroku
   edge: true
-  api-key: $HEROKU_API_KEY
+  api-key: $HEROKU_API_KEY_NAO_FUNCIONA
   app: devopslabs-helloworld-2020
   
